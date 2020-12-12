@@ -9,6 +9,7 @@ out
 .cache/
 .history/
 .lib/
+.bsp/
 dist/*
 target/
 bin/
